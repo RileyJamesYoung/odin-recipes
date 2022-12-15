@@ -1,0 +1,1 @@
+This project is part of the Odin Project course where we put our knowledge to the test and build a web page to display some recipes. 
